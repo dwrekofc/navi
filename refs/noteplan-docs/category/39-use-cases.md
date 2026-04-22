@@ -1,0 +1,16 @@
+# Use Cases
+
+- [Use NotePlan with Obsidian](../article/61-use-noteplan-with-obsidian.md)
+- [Time Blocking](../article/121-time-blocking.md)
+- [Habit Tracking](../article/144-habit-tracking.md)
+- [Weekly Planning](../article/160-weekly-planning.md)
+- [Workflow for Reviewing Daily Notes](../article/140-workflow-for-reviewing-daily-notes.md)
+- [Differences between Agenda and NotePlan](../article/60-differences-between-agenda-and-noteplan.md)
+- [Digital Bullet Journal](../article/109-digital-bullet-journal.md)
+- [How to take effective Book Notes](../article/156-how-to-take-effective-book-notes.md)
+- [Travel Checklist](../article/145-travel-checklist.md)
+- [Use Split Views as Kanban Board](../article/142-use-split-views-as-kanban-board.md)
+- [Workflow for Daily Recurring Tasks using ">today"](../article/139-workflow-for-daily-recurring-tasks-using-today.md)
+- [Differences between NotePlan 2 and NotePlan 3](../article/84-differences-between-noteplan-2-and-noteplan-3.md)
+- [Share Files Between Devices](../article/104-share-files-between-devices.md)
+- [Use >today for recurring tasks](../article/167-use-today-for-recurring-tasks.md)
